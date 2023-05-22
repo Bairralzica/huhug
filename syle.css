@@ -64,3 +64,38 @@ body{
     text-align: center;
     padding: 50px 0;
 }
+
+.carros-dic{
+    text-align: center;
+}
+
+.bloco-arrumar-fotos{
+    display: grid;
+grid-template-columns: %20 20 %20 %20 %20;
+}
+
+.imagem-carro4{
+    width: 140px;
+}
+
+.imagem-carro5{
+    width: 170px;
+}
+
+.imagem-carro6{
+    width: 140px;
+}
+
+.imagem-carro7{
+    width: 170px;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 7px 0;
+}
